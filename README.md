@@ -6,19 +6,30 @@ Ce projet présente la conception d'un outil de pilotage interactif réalisé su
 L'objectif était de centraliser les données de vente, d'analyser la performance de la force de vente (hôtesses) et de mesurer l'atteinte des
 objectifs commerciaux en temps réel.
 
+[👉 Voir le Tableau de bord ](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/Doc/Projet1_MacroBus.pbix).
 ---
 
 ## 🚀 Fonctionnalités Clés
 
 **Analyse Globale (Ventes & Revenus) :** Suivi du Chiffre d'Affaires total (4 044 710 FCFA) et du volume de cartons vendus par rapport à l'objectif cible (pp. 1-2).
 
+![Visualisation des données2](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/image/QUESTION%203.PNG).
+
 **Performance par Point de Vente :** Visualisation des performances en cartons et en C.A. pour chaque enseigne (Auchan, Casino, Exclusive) (p. 1).
+
+![Visualisation des données2](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/image/QUESTION%203.PNG).
 
 **Analyse Produit (Mix S.K.U) :** Ventilation des ventes entre les formats 240g et 500g pour identifier les produits moteurs (p. 2).
 
+![Visualisation des données2](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/image/QUESTION%203.PNG).
+
 **Suivi Individuel des Hôtesses :** Monitoring précis des réalisations vs objectifs individuels, incluant le taux de performance (%) et le nombre de jours travaillés (p. 3).
 
+![Visualisation des données2](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/image/QUESTION%203.PNG).
+
 **Gestion de la Rémunération :** Calcul automatisé des primes et de la rémunération totale des équipes en fonction de l'activité (p. 4).
+
+![Visualisation des données2](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/image/QUESTION%203.PNG).
 
 ---
 
@@ -80,7 +91,7 @@ Je suis actuellement à la recherche d’opportunités dans ces domaines pour me
 ---
 
 ## 📂 Aperçu du projet
-Le fichier Excel contient :  
+Le fichier Excel contient :  [👉 fichier excel ](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/Doc/Projet1_MacroBus.pbix).
 - Un **dashboard global** (revenus, objectifs, performances).  
 - Des **rapports détaillés par point de vente et par hôtesse**.  
 - Un **module de rémunération automatique**.  
