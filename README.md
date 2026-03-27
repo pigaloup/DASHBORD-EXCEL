@@ -6,7 +6,7 @@ Ce projet présente la conception d'un outil de pilotage interactif réalisé su
 L'objectif était de centraliser les données de vente, d'analyser la performance de la force de vente (hôtesses) et de mesurer l'atteinte des
 objectifs commerciaux en temps réel.
 
-[👉 Voir le Tableau de bord ](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus/blob/main/Doc/Projet1_MacroBus.pbix).
+[👉 Voir le Tableau de bord ](https://github.com/pigaloup/DASHBORD-EXCEL/blob/main/Doc/Tableau%20de%20bord%20des%20ventes%20-%20Promo%20PUCK%20.pdf).
 ---
 
 ## 🚀 Fonctionnalités Clés
@@ -90,7 +90,7 @@ Je suis actuellement à la recherche d’opportunités dans ces domaines pour me
 
 ## 📂 Aperçu du projet
 
-[👉 Voir le Tableau de bord ](https://github.com/pigaloup/DASHBORD-EXCEL/blob/main/Promo%20PUCK.xlsx)
+[👉 Voir le fichier Excel ](https://github.com/pigaloup/DASHBORD-EXCEL/blob/main/Promo%20PUCK.xlsx)
 
 Le fichier Excel contient :  .
 - Un **dashboard global** (revenus, objectifs, performances).  
