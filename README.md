@@ -28,12 +28,12 @@ Le dashboard permet de piloter quatre indicateurs majeurs :
 *   **Performance Équipe :** Suivi individuel des 16 hôtesses.
   
 
-| Indicateur                | Valeur         |
-| --------------------------|----------------|
-| **Total Revenu**          | 4 044 710 FCFA |
-| **Volume de Ventes**      | 126 cartons    |
-| **Objectif de Campagne**  | 344 cartons    |
-| **Performance Globale**   | **37%**        |
+| Indicateur                                                     | Valeur         |
+| ---------------------------------------------------------------|----------------|
+| **Total Revenu**                                               | 4 044 710 FCFA |
+| **Volume de Ventes**                                           | 126 cartons    |
+| **Objectif de Campagne**                                       | 344 cartons    |
+| **Performance Globale**                                        | **37%**        |
 
 ---
 
@@ -87,7 +87,7 @@ Le fichier Excel contient :
 👤 El Hadji Ablaye Galoup Diop  
 📍 Dakar, Sénégal  
 💼 Data Analyst | Business Analyst  
-🔗 [LinkedIn] : *https://www.linkedin.com/in/ablayegaloupdiop/*  
-📩 Email : * elhadjiablayegaloupdiop@gmail.com*  
+🔗 LinkedIn : *https://www.linkedin.com/in/ablayegaloupdiop/*  
+📩 Email : *elhadjiablayegaloupdiop@gmail.com*  
 
 ---
