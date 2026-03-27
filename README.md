@@ -11,9 +11,13 @@ objectifs commerciaux en temps réel.
 ## 🚀 Fonctionnalités Clés
 
 Analyse Globale (Ventes & Revenus) : Suivi du Chiffre d'Affaires total (4 044 710 FCFA) et du volume de cartons vendus par rapport à l'objectif cible (pp. 1-2).
+
 Performance par Point de Vente : Visualisation des performances en cartons et en C.A. pour chaque enseigne (Auchan, Casino, Exclusive) (p. 1).
+
 Analyse Produit (Mix S.K.U) : Ventilation des ventes entre les formats 240g et 500g pour identifier les produits moteurs (p. 2).
+
 Suivi Individuel des Hôtesses : Monitoring précis des réalisations vs objectifs individuels, incluant le taux de performance (%) et le nombre de jours travaillés (p. 3).
+
 Gestion de la Rémunération : Calcul automatisé des primes et de la rémunération totale des équipes en fonction de l'activité (p. 4).
 
 ---
